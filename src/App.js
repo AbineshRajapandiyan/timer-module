@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-        <div>changed in dev</div>
+        <div>changed asdfin dev</div>
         </header>
       </div>
     );
